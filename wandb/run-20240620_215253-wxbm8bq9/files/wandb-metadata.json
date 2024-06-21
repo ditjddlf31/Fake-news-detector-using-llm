@@ -1,0 +1,43 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.8.5",
+    "heartbeatAt": "2024-06-20T12:52:53.960625",
+    "startedAt": "2024-06-20T12:52:53.128798",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "host": "DESKTOP-GUDP9VD",
+    "username": "leesongil",
+    "executable": "c:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "cpu_count": 12,
+    "cpu_count_logical": 20,
+    "cpu_freq": {
+        "current": 3610.0,
+        "min": 0.0,
+        "max": 3610.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3610.0,
+            "min": 0.0,
+            "max": 3610.0
+        }
+    ],
+    "disk": {
+        "total": 930.874210357666,
+        "used": 548.107234954834
+    },
+    "gpu": "GeForce RTX 3090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "GeForce RTX 3090",
+            "memory_total": 25769803776
+        }
+    ],
+    "memory": {
+        "total": 31.77731704711914
+    }
+}
